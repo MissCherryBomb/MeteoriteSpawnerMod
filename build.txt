@@ -1,0 +1,3 @@
+displayName = Meteorite Spawner
+author = Cherry Bomb
+version = 0.1
